@@ -212,3 +212,7 @@ button:focus {
   margin-right: auto;
   border-radius: 40px;
 }
+
+#con {
+  background-image: inherit;
+}
